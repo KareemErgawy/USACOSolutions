@@ -1,0 +1,31 @@
+/*
+ ID: kareem_2
+ PROG: frac1
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+struct fraction {
+	int numerator;
+	int deominator;
+};
+
+bool relativelyPrime(int a, int b){
+	int r = a % b;
+}
+
+int main() {
+	ifstream fin("frac1.in");
+	ofstream fout("frac1.out");
+	int n;
+	fin >> n;
+	fraction* fractions = new fraction[n * n];
+	int foundFractions = 0;
+	for (int i = 1; i <= n; i++) {
+		for (int j = 0; j <= i; j++) {
+
+		}
+	}
+}

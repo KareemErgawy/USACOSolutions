@@ -1,0 +1,8 @@
+
+**** Rebuild of configuration Debug for project 29 Runround ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
+g++ -o29 Runround.exe Main.o
+Build complete for project 29 Runround
+Time consumed: 404  ms.  

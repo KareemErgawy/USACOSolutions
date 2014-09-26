@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project 27 Preface ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain5.o ..\Main5.cpp
+g++ -o27 Preface.exe Main5.o Main4.o Main3.o Main2.o Main.o
+Build complete for project 27 Preface
+Time consumed: 307  ms.  

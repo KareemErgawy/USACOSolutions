@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project 04 Beads ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain4.o ..\Main4.cpp
+g++ -o04 Beads.exe Main4.o Main3.o Main2.o Main.o
+Build complete for project 04 Beads
+Time consumed: 458  ms.  

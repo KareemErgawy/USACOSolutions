@@ -1,0 +1,21 @@
+/*
+ ID: kareem_2
+ PROG: frac1
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+struct fraction {
+	int numerator;
+	int deominator;
+};
+
+int main() {
+	ifstream fin("frac1.in");
+	ofstream fout("frac1.out");
+	int n;
+	fin >> n;
+
+}

@@ -1,0 +1,34 @@
+/*
+ ID: kareem_2
+ PROG: fracdec
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main() {
+
+	bool remaindersEncountered[10000];
+	int remainderPositions[10000];
+
+	for(int i=0 ; i<10000 ; i++){
+		remaindersEncountered[i] = false;
+	}
+
+	int n, d;
+	n = 45;
+	d = 56;
+
+	cout << (n / d) << ".";
+	string fraction = "";
+	n = n % d;
+
+	while(true) {
+		if(n == 0){
+			break;
+		}
+	}
+
+	return 0;
+}

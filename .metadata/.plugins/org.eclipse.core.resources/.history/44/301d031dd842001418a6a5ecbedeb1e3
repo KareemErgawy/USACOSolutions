@@ -1,0 +1,34 @@
+/*
+ ID: kareem_2
+ PROG: preface
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+string encoding[] = { "", "I", "II", "III", "IV", "V", "VI", "VII", "VIII",
+		"IX" };
+
+string romanDigit(int digit, string map) {
+
+	string encodingMap = encoding[digit % 10];
+	encodingMap.replace(encodingMap.begin(), encodingMap.end(), 'I', map.at(0));
+	encodingMap.replace(encodingMap.begin(), encodingMap.end(), 'V', map.at(1));
+	encodingMap.replace(encodingMap.begin(), encodingMap.end(), 'X', map.at(2));
+
+	return encodingMap;
+}
+
+int main() {
+
+	cout << romanDigit(5, "XLC") << endl;
+
+	ifstream fin("preface.in");
+	ofstream fout("preface.out");
+
+	int n;
+	fin >> n;
+
+	return 0;
+}

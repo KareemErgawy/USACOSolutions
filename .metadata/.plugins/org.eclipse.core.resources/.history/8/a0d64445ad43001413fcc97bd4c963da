@@ -1,0 +1,26 @@
+/*
+ ID: kareem_2
+ PROG: preface
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int romanDigits[] = { 1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1 };
+string letters = "IVXLCDM";
+// M, MC, D, DC, C, CX, L, LX, X, XI, V, VI, I
+int add1[] = { 6, 6, 5, 5, 4, 4, 3, 3, 2, 2, 1, 0 };
+int add2[] = { -1, 4, -1, 4, -1, 2, -1, 2, -1, 0, -1, -1 };
+
+void count(int n) {
+
+}
+
+int main() {
+	ifstream fin("preface.in");
+	ofstream fout("preface.out");
+
+	return 0;
+}

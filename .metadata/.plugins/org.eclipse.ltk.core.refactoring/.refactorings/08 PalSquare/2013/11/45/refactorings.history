@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Create method convert" description="Extract Method Refactoring" fileName="file:/D:/USACO/08%20PalSquare/Main.cpp" flags="4" id="org.eclipse.cdt.internal.ui.refactoring.extractfunction.ExtractFunctionRefactoring" name="convert" replaceDuplicates="false" selection="354,240" stamp="1383676570702" visibility="private"/>
+</session>

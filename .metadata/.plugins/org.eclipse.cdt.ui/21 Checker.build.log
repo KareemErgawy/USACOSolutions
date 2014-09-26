@@ -1,0 +1,8 @@
+
+**** Rebuild of configuration Debug for project 21 Checker ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
+g++ -o21 Checker.exe Main.o
+Build complete for project 21 Checker
+Time consumed: 355  ms.  

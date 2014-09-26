@@ -1,0 +1,8 @@
+/*
+ ID: kareem_2
+ PROG: frac1
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;

@@ -1,0 +1,78 @@
+/*
+ ID: kareem_2
+ PROG: humble
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+#include <climits>
+using namespace std;
+
+bool canBeFactorized(int x, int* s, int k) {
+
+	while (x > 1) {
+		int i = 0;
+		for (i = 0; i < k; i++) {
+			if (x % s[i] == 0) {
+				x = x / s[i];
+				break;
+			}
+		}
+
+		if (i == k) {
+			return false;
+		}
+	}
+
+	return true;
+}
+
+int main() {
+
+	ifstream fin("humble.in");
+	ofstream fout("humble.out");
+	int sSize, n;
+	fin >> sSize >> n;
+	int* s = new int[sSize];
+
+	for (int i = 0; i < sSize; ++i) {
+		fin >> s[i];
+	}
+
+	//	int x = 2;
+	//	int i = 0;
+	//	while (true) {
+	//		if (canBeFactorized(x, s, sSize)) {
+	//			i++;
+	//			cout << x << endl;
+	//			if (i == n) {
+	//				break;
+	//			}
+	//		}
+	//		x++;
+	//	}
+	//
+	//	fout << x << endl;
+
+	int* dp = new int[n + 1];
+	dp[0] = 1;
+
+	for (int i = 1; i <= n; i++) {
+		dp[i] = INT_MAX;
+		bool foundAny = false;
+		for (int j = i - 1; j >= 0; j--) {
+			for (int k = 0; k < sSize; k++) {
+				if (dp[j] * s[k] > dp[i - 1] && dp[j] * s[k] < dp[i]) {
+					dp[i] = dp[j] * s[k];
+					foundAny = true;
+				}
+			}
+			if (!foundAny) {
+				break;
+			}
+		}
+	}
+
+	fout << dp[n] << endl;
+	return 0;
+}

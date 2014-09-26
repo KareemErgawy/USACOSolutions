@@ -1,0 +1,63 @@
+/*
+ ID: kareem_2
+ PROG: fracdec
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main() {
+
+	ifstream fin("fracdec.in");
+	ofstream fout("fracdec.out");
+
+	bool remaindersEncountered[100001];
+	int remainderPositions[100001];
+
+	for (int i = 0; i < 100001; i++) {
+		remaindersEncountered[i] = false;
+	}
+
+	int n, d;
+	fin >> n >> d;
+
+	string fraction = "";
+	int a = (n / d);
+
+	do {
+		fraction = char('0' + (a% 10)) + fraction;
+		a = a / 10;
+	} while (a > 0);
+
+	if (n % d == 0) {
+		fout << "0" << endl;
+		return 0;
+	}
+
+	n = n % d;
+
+	while (true) {
+		if (n == 0) {
+			break;
+		}
+
+		if (remaindersEncountered[n] == true) {
+			fraction = fraction.substr(0, remainderPositions[n]) + "("
+					+ fraction.substr(remainderPositions[n],
+							fraction.length() - remainderPositions[n]) + ")";
+			break;
+		}
+
+		remaindersEncountered[n] = true;
+		remainderPositions[n] = fraction.length();
+		n = n * 10;
+		fraction = fraction + char('0' + (n / d));
+
+		n = n % d;
+	}
+
+	fout << fraction << endl;
+
+	return 0;
+}

@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to get CElement for Macro",1384911703995
+error,log,,,"Unable to get CElement for Macro",1384911703996
+error,log,,,"Unable to get CElement for Macro",1384911703997
+error,log,,,"Unable to get CElement for Macro",1384911703998
+error,log,,,"Unable to get CElement for Macro",1384911704000
+error,log,,,"Unable to get CElement for Macro",1384911704001
+error,log,,,"Unable to get CElement for Macro",1384911704002
+error,log,,,"Unable to get CElement for Macro",1384911704002
+error,log,,,"Unable to get CElement for Macro",1384911704003
+error,log,,,"Unable to get CElement for Macro",1384911704004
+error,log,,,"Unable to get CElement for Macro",1384911704005
+error,log,,,"Unable to get CElement for Macro",1384911704005
+error,log,,,"Unable to get CElement for Macro",1384911704006
+error,log,,,"Unable to get CElement for Macro",1384911704007
+error,log,,,"Unable to get CElement for Macro",1384911704008
+error,log,,,"Unable to get CElement for Macro",1384911704008
+error,log,,,"Unable to get CElement for Macro",1384911704009
+error,log,,,"Unable to get CElement for Macro",1384911704010
+error,log,,,"Unable to get CElement for Macro",1384911704011
+error,log,,,"Unable to get CElement for Macro",1384911704012
+error,log,,,"Unable to get CElement for Macro",1384911704014
+error,log,,,"Unable to get CElement for Macro",1384911704015
+error,log,,,"Unable to get CElement for Macro",1384911704016
+error,log,,,"Unable to get CElement for Macro",1384911704018
+error,log,,,"Unable to get CElement for Macro",1384911704019
+error,log,,,"Unable to get CElement for Macro",1384911704020
+error,log,,,"Unable to get CElement for Macro",1384911704021
+error,log,,,"Unable to get CElement for Macro",1384911704022
+error,log,,,"Unable to get CElement for Macro",1384911704023
+error,log,,,"Unable to get CElement for Macro",1384911704024
+error,log,,,"Unable to get CElement for Macro",1384911704025
+error,log,,,"Unable to get CElement for Macro",1384911704025
+error,log,,,"Unable to get CElement for Macro",1384911704026
+error,log,,,"Unable to get CElement for Macro",1384911704027
+error,log,,,"Unable to get CElement for Macro",1384911704028
+error,log,,,"Unable to get CElement for Macro",1384911704028
+error,log,,,"Unable to get CElement for Macro",1384911704029
+error,log,,,"Unable to get CElement for Macro",1384911704030
+error,log,,,"Unable to get CElement for Macro",1384911704030
+error,log,,,"Unable to get CElement for Macro",1384911704031
+error,log,,,"Unable to get CElement for Macro",1384911704032
+error,log,,,"Unable to get CElement for Macro",1384911704033
+error,log,,,"Unable to get CElement for Macro",1384911704033
+error,log,,,"Unable to get CElement for Macro",1384911704034
+error,log,,,"Unable to get CElement for Macro",1384911704035
+error,log,,,"Unable to get CElement for Macro",1384911704035
+error,log,,,"Unable to get CElement for Macro",1384911704036
+error,log,,,"Unable to get CElement for Macro",1384911704037
+error,log,,,"Unable to get CElement for Macro",1384911704037
+error,log,,,"Unable to get CElement for Macro",1384911704038
+error,log,,,"Unable to get CElement for Macro",1384911704039
+error,log,,,"Unable to get CElement for Macro",1384911704040
+error,log,,,"Unable to get CElement for Macro",1384911704041
+error,log,,,"Unable to get CElement for Macro",1384911704042
+error,log,,,"Unable to get CElement for Macro",1384911704043
+error,log,,,"Unable to get CElement for Macro",1384911704044
+error,log,,,"Unable to get CElement for Macro",1384911704045
+error,log,,,"Unable to get CElement for Macro",1384911704046
+error,log,,,"Unable to get CElement for Macro",1384911704047
+error,log,,,"Unable to get CElement for Macro",1384911704048
+error,log,,,"Unable to get CElement for Macro",1384911704048
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384911704075
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911709803
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911785575
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911786844
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911801354
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911805777
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911807413
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911818222
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.format",1384911819559
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911820447
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911820568
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911820680
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911820819
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911820955
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911821090
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911821791
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911821828
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911821862
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911821902
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911821938
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911821979
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911822016
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911822052
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911822089
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384911822127
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911822371
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1384911836468
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.lineEnd",1384911845199
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1384911846284
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1384911867556
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1384911867738
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.lineEnd",1384911868434
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1384911869351
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1384911869787
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911875588
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.format",1384911876424
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.lineEnd",1384911878046
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.format",1384911879467
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911880112
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384911886001
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911907702
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384911909983
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.lineStart",1384911911038
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384911915694
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384911917386
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911923657
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911927278
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911945368
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1384911970845
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1384911970999
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1384911971130
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordPrevious",1384911971369
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384911971881
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384911972010
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384911972161
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384911972295
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384911972442
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384911972832
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1384911973810
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1384911974838
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384911975474
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384911998232
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912005720
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912025373
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912026175
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912040627
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912050641
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912056443
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384912057110
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384912068212
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1384912071402
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.format",1384912076694
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912077204
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912092122
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912098662
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1384912105780
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912105956
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912105978
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1384912107475
+closed,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912107476
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1384912116252
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.refresh",1384912117614
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912119547
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912119565
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1384912120809
+closed,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912120810
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1384912124896
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1384912126783
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.textStart",1384912127687
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1384912128212
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912129300
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.textEnd",1384912130132
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912131420
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912136507
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912160159
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912167579
+activated,view,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.DebugView",1384912167592
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Terminate",1384912167594
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1384912169965
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912170895
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384912180239
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1384912180987
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1384912181380
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912185622
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912186353
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1384912188297
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1384912189277
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.textStart",1384912190695
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1384912191163
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912191984
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912197327
+error,log,,,"Error logged from Debug Core: ",1384912197360
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1384912202158
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.textStart",1384912204014
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1384912204547
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912205297
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912206301
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912210547
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1384912217132
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.refresh",1384912218410
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912219940
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912219957
+activated,editor,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.DefaultTextEditor",1384912228701
+closed,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912228701
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.close",1384912228707
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1384912229995
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912230873
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.toggle.comment",1384912251672
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912252007
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912266517
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1384912268818
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912272796
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912281501
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912283363
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912284855
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912292202
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1384912296389
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.refresh",1384912297707
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912299095
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912299115
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912302266
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912306504
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912307878
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912331680
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1384912333691
+closed,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.binaryEditor",1384912333692
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.close",1384912333698
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912335542
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912337392
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912345820
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912354683
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912355434
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912360255
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912365520
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912372996
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912373536
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912374782
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912376977
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912443168
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.textStart",1384912443658
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.toggle.comment",1384912449169
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912449398
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912451009
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912451929
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912452143
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1384912468621
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912473900
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912481644
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.wordNext",1384912482650
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.select.wordNext",1384912483016
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912485887
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912509361
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912512669
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1384912513428
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.redo",1384912514798
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.toggle.comment",1384912516930
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912517779
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.toggle.comment",1384912524233
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912524506
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912525923
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912532105
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912537920
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912579864
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912580450
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912586619
+activated,view,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.DebugView",1384912599135
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Terminate",1384912599137
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1384912599930
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1384912601017
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1384912601804
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1384912602312
+executed,command,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.commands.Resume",1384912612670
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.window.maximizePart",1384912620464
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912650862
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651558
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651594
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651632
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651669
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651705
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651745
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651784
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651819
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651856
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651893
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651933
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912651972
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652006
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652043
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652083
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652117
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652158
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652195
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652233
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.scroll.lineDown",1384912652272

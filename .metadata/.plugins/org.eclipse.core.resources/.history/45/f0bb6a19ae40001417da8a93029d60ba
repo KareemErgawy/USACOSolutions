@@ -1,0 +1,27 @@
+/*
+ ID: kareem_2
+ PROG: frac1
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+struct fraction {
+	int numerator;
+	int deominator;
+};
+
+int main() {
+	ifstream fin("frac1.in");
+	ofstream fout("frac1.out");
+	int n;
+	fin >> n;
+	fraction* fractions = new fraction[n * n];
+	int foundFractions = 0;
+	for (int i = 0; i <= n; i++) {
+		for (int j = 1; j <= n; j++) {
+
+		}
+	}
+}

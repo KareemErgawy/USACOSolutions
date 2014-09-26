@@ -1,0 +1,78 @@
+/*
+ ID: kareem_2
+ PROG: subset
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+typedef unsigned long ul;
+
+inline int isCandidate(ul n) {
+	bool visited[9];
+	memset(visited, 0, sizeof(visited));
+	int numDigits = 0;
+
+	while (n) {
+		int d = n % 10;
+		n = n / 10;
+
+		if (d == 0) {
+			return 0;
+		}
+
+		d--;
+
+		if (visited[d]) {
+			return 0;
+		}
+
+		visited[d] = true;
+		numDigits++;
+	}
+
+	return numDigits;
+}
+
+inline bool isRunaround(ul n, int numDigits) {
+	bool* visited = new bool[numDigits];
+	memset(visited, 0, numDigits);
+	int current = 0;
+
+	while (n) {
+		int d = n % 10;
+		n = n / 10;
+
+		int index = (d + (numDigits - 1 - current)) % numDigits;
+
+		if (index == (numDigits - 1 - current) || visited[index]) {
+			return false;
+		}
+
+		visited[index] = true;
+		current++;
+	}
+
+	return true;
+}
+
+int main() {
+	ifstream fin("runaround.in");
+	ofstream fout("runaround.out");
+
+	ul n;
+	fin >> n;
+
+	for (ul i = n + 1;; i++) {
+		int size = isCandidate(i);
+		if (size) {
+			if (isRunaround(i, size)) {
+				cout << i << endl;
+				break;
+			}
+		}
+	}
+
+	return 0;
+}

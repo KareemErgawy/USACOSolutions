@@ -1,0 +1,17 @@
+
+**** Rebuild of configuration Debug for project 39 ComeHome ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
+..\Main.cpp: In function 'int main()':
+..\Main.cpp:32:15: warning: array subscript has type 'char' [-Wchar-subscripts]
+..\Main.cpp:32:19: warning: array subscript has type 'char' [-Wchar-subscripts]
+..\Main.cpp:32:35: warning: array subscript has type 'char' [-Wchar-subscripts]
+..\Main.cpp:32:39: warning: array subscript has type 'char' [-Wchar-subscripts]
+..\Main.cpp:33:19: warning: array subscript has type 'char' [-Wchar-subscripts]
+..\Main.cpp:33:23: warning: array subscript has type 'char' [-Wchar-subscripts]
+..\Main.cpp:33:57: warning: array subscript has type 'char' [-Wchar-subscripts]
+..\Main.cpp:33:61: warning: array subscript has type 'char' [-Wchar-subscripts]
+g++ -o39 ComeHome.exe Main.o
+Build complete for project 39 ComeHome
+Time consumed: 355  ms.  

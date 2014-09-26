@@ -1,0 +1,8 @@
+
+**** Rebuild of configuration Debug for project 33 Money ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
+g++ -o33 Money.exe Main.o
+Build complete for project 33 Money
+Time consumed: 304  ms.  

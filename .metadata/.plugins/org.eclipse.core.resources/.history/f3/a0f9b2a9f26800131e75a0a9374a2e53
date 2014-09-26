@@ -1,0 +1,49 @@
+/*
+ ID: kareem_2
+ PROG: frac1
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+unsigned long long gcd(unsigned long long n, unsigned long long m) {
+	if (n < m) {
+		unsigned long long tmp = n;
+		n = m;
+		m = tmp;
+	}
+
+	if (n % m == 0) {
+		return m;
+	}
+
+	return gcd(m, n % m);
+}
+
+unsigned long long lcm(unsigned long long n, unsigned long long m) {
+	return n / gcd(n, m) * m;
+}
+
+int main() {
+	int n = 5;
+	int n = 1;
+
+//	unsigned long long res = 1;
+//	unsigned long long n = 50;
+//	for (unsigned long long i = 1; i <= n; i++) {
+//		res = lcm(res, i);
+//	}
+//
+//	cout << res << endl;
+//
+//	unsigned long long currentGCD;
+//	for (unsigned long long i = 1; i <= res; i++) {
+//		currentGCD = gcd(res, i);
+//		if (res / currentGCD <= n) {
+//			cout << i / currentGCD << "/" << res / currentGCD << endl;
+//		}
+//	}
+
+	return 0;
+}

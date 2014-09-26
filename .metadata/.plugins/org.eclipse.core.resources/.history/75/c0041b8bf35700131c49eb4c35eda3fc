@@ -1,0 +1,21 @@
+/*
+ ID: kareem_2
+ PROG: ariprog
+ LANG: C++
+ */
+#include <iostream>
+using namespace std;
+
+void generateBisquares(int m) {
+	for (int i = 0; i <= m; i++) {
+		for (int j = 0; j <= m; j++) {
+			cout << ((i * i) + (j * j)) << endl;
+		}
+	}
+}
+
+int main() {
+	generateBisquares(250);
+
+	return 0;
+}

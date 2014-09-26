@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;20 SPrime/pprime.in&apos; to &apos;sprime.in&apos;" description="Rename resource &apos;pprime.in&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="pprime.in" name="sprime.in" stamp="1386898516127" updateReferences="true"/>
+</session>

@@ -1,0 +1,8 @@
+
+**** Rebuild of configuration Debug for project 34 ConCom ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
+g++ -o34 ConCom.exe Main.o
+Build complete for project 34 ConCom
+Time consumed: 305  ms.  

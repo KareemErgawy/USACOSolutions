@@ -1,0 +1,10 @@
+
+**** Rebuild of configuration Debug for project 40 FracDec ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
+..\Main.cpp: In function 'int main()':
+..\Main.cpp:65:32: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+g++ -o40 FracDec.exe Main.o
+Build complete for project 40 FracDec
+Time consumed: 354  ms.  

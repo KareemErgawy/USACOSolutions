@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project 10 Milk ****
+
+**** Internal Builder is used for build               ****
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain2.o ..\Main2.cpp
+g++ -o10 Milk.exe Main2.o Main.o
+Build complete for project 10 Milk
+Time consumed: 306  ms.  

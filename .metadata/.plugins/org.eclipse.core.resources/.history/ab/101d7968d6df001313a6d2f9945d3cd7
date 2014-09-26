@@ -1,0 +1,56 @@
+/*
+ ID: kareem_2
+ PROG: humble
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+bool canBeFactorized(int x, int* s, int k) {
+
+	while (x > 1) {
+		int i;
+		for (int i = 0; i < k; i++) {
+			if (x % s[i] == 0) {
+				x = x / s[i];
+				break;
+			}
+		}
+
+		if (i == k) {
+			return false;
+		}
+	}
+
+	return true;
+}
+
+int main() {
+
+	ifstream fin("humble.in");
+	ofstream fout("humble.out");
+	int k, n;
+	fin >> k >> n;
+	int* s = new int[k];
+
+	for (int i = 0; i < k; ++i) {
+		fin >> s[i];
+	}
+
+	int x = 2;
+	int i = 0;
+	while (true) {
+		if(canBeFactorized(x, s, k)) {
+			i++;
+			if(i == n) {
+				break;
+			}
+		}
+		x++;
+	}
+
+	cout << x << endl;
+
+	return 0;
+}

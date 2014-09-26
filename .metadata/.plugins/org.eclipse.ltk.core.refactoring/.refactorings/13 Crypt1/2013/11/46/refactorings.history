@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Create method Test" description="Extract Method Refactoring" fileName="file:/D:/USACO/13%20Crypt1/Main.cpp" flags="4" id="org.eclipse.cdt.internal.ui.refactoring.extractfunction.ExtractFunctionRefactoring" name="Test" replaceDuplicates="false" selection="983,136" stamp="1384125974263" visibility="private"/>
+</session>

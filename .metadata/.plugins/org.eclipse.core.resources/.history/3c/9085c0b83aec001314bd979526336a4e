@@ -1,0 +1,65 @@
+/*
+ ID: kareem_2
+ PROG: kimbits
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+#include <queue>
+#include <set>
+using namespace std;
+
+inline long next(long x) {
+	long b = x & -x;
+	long t = x + b;
+	long c = x ^ t;
+	long m = (c >> 2) / b;
+	return t | m;
+}
+
+int main() {
+
+	ifstream fin("kimbits.in");
+	ofstream fout("kimbits.out");
+
+	int n, l, i;
+
+	fin >> n >> l >> i;
+
+	long temp;
+	int numOnes = 0;
+	int counter = 0;
+	long j;
+	for (j = 1; j < (1 << n); j++) {
+		temp = j;
+		numOnes = 0;
+		while (temp > 0) {
+			temp = temp ^ -temp;
+		}
+		if (numOnes <= l) {
+			counter++;
+			if(counter == i) {
+				break;
+			}
+		}
+	}
+
+	char* numStr = new char[n];
+	for (int k = 0; k < n; k++) {
+		numStr[k] = '0';
+	}
+
+	int k = 0;
+	while (j > 0) {
+		numStr[k] = (j & 1) + '0';
+		j = j >> 1;
+		k++;
+	}
+
+	for (int j = n - 1; j >= 0; j--) {
+		fout << numStr[j];
+	}
+
+	fout << endl;
+	return 0;
+}

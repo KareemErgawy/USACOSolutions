@@ -1,0 +1,23 @@
+/*
+ ID: kareem_2
+ PROG: humble
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main() {
+
+	ifstream fin("humble.in");
+	ofstream fout("humble.out");
+	int k, n;
+	fin >> k >> n;
+	int* s = new int[k];
+
+	for (int x = 0; x < k; ++x) {
+
+	}
+
+	return 0;
+}
