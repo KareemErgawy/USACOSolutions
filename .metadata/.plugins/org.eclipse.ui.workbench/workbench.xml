@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="17" version="2.0">
+<workbench progressCount="21" version="2.0">
 <workbenchAdvisor/>
 <window height="702" maximized="true" width="683" x="298" y="-10">
 <fastViewData fastViewLocation="1024"/>
@@ -34,7 +34,7 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Main.cpp" partName="Main.cpp" path="D:/USACO/28 Subset/Main.cpp" title="Main.cpp" tooltip="28 Subset/Main.cpp" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Main.cpp" partName="Main.cpp" path="D:/USACOGit/USACOSolutions/28 Subset/Main.cpp" title="Main.cpp" tooltip="28 Subset/Main.cpp" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/28 Subset/Main.cpp"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="636" selectionTopPixel="240"/>
 </editor>
@@ -44,42 +44,40 @@
 <viewState CommonNavigator.LINKING_ENABLED="0" CommonNavigator.LINKING_ENABLED.delayed="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 <view id="org.eclipse.cdt.ui.CView" partName="C/C++ Projects">
-<viewState horizontalPosition="0" verticalPosition="233">
+<viewState horizontalPosition="0" verticalPosition="211">
 <expanded>
-<element path="D:\USACO\01 Ride"/>
-<element path="D:\USACO\02 Gift1"/>
-<element path="D:\USACO\03 Friday"/>
-<element path="D:\USACO\04 Beads"/>
-<element path="D:\USACO\05 Milk2"/>
-<element path="D:\USACO\06 Transform"/>
-<element path="D:\USACO\07 NameNum"/>
-<element path="D:\USACO\08 PalSquare"/>
-<element path="D:\USACO\09 DualPal"/>
-<element path="D:\USACO\10 Milk"/>
-<element path="D:\USACO\11 Barn1"/>
-<element path="D:\USACO\12 Calfflac"/>
-<element path="D:\USACO\13 Crypt1"/>
-<element path="D:\USACO\14 PackRec"/>
-<element path="D:\USACO\15 Clocks"/>
-<element path="D:\USACO\16 AriProg"/>
-<element path="D:\USACO\17 Milk3"/>
-<element path="D:\USACO\18 NumTri"/>
-<element path="D:\USACO\19 PPrime"/>
-<element path="D:\USACO\20 SPrime"/>
-<element path="D:\USACO\21 Checker"/>
-<element path="D:\USACO\22 Castle"/>
-<element path="D:\USACO\23 Frac1"/>
-<element path="D:\USACO\24 Sort3"/>
-<element path="D:\USACO\25 Holstein"/>
-<element path="D:\USACO\26 Hamming"/>
-<element path="D:\USACO\27 Preface"/>
-<element path="D:\USACO\28 Subset"/>
-<element path="D:\USACO\29 Runround"/>
-<element path="D:\USACO\30 Lamps"/>
-<element path="D:\USACO\Test"/>
+<element path="D:\USACOGit\USACOSolutions\01 Ride"/>
+<element path="D:\USACOGit\USACOSolutions\02 Gift1"/>
+<element path="D:\USACOGit\USACOSolutions\03 Friday"/>
+<element path="D:\USACOGit\USACOSolutions\04 Beads"/>
+<element path="D:\USACOGit\USACOSolutions\05 Milk2"/>
+<element path="D:\USACOGit\USACOSolutions\06 Transform"/>
+<element path="D:\USACOGit\USACOSolutions\07 NameNum"/>
+<element path="D:\USACOGit\USACOSolutions\08 PalSquare"/>
+<element path="D:\USACOGit\USACOSolutions\09 DualPal"/>
+<element path="D:\USACOGit\USACOSolutions\10 Milk"/>
+<element path="D:\USACOGit\USACOSolutions\11 Barn1"/>
+<element path="D:\USACOGit\USACOSolutions\12 Calfflac"/>
+<element path="D:\USACOGit\USACOSolutions\13 Crypt1"/>
+<element path="D:\USACOGit\USACOSolutions\14 PackRec"/>
+<element path="D:\USACOGit\USACOSolutions\15 Clocks"/>
+<element path="D:\USACOGit\USACOSolutions\16 AriProg"/>
+<element path="D:\USACOGit\USACOSolutions\17 Milk3"/>
+<element path="D:\USACOGit\USACOSolutions\18 NumTri"/>
+<element path="D:\USACOGit\USACOSolutions\19 PPrime"/>
+<element path="D:\USACOGit\USACOSolutions\20 SPrime"/>
+<element path="D:\USACOGit\USACOSolutions\21 Checker"/>
+<element path="D:\USACOGit\USACOSolutions\22 Castle"/>
+<element path="D:\USACOGit\USACOSolutions\23 Frac1"/>
+<element path="D:\USACOGit\USACOSolutions\24 Sort3"/>
+<element path="D:\USACOGit\USACOSolutions\25 Holstein"/>
+<element path="D:\USACOGit\USACOSolutions\26 Hamming"/>
+<element path="D:\USACOGit\USACOSolutions\27 Preface"/>
+<element path="D:\USACOGit\USACOSolutions\28 Subset"/>
+<element path="D:\USACOGit\USACOSolutions\29 Runround"/>
 </expanded>
 <selection>
-<element path="D:/USACO/Test/Main.cpp"/>
+<element path="D:/USACOGit/USACOSolutions/37 Maze1"/>
 </selection>
 <customFilters userDefinedPatternsEnabled="false">
 <xmlDefinedFilters>
@@ -125,10 +123,10 @@
 <view id="org.eclipse.cdt.debug.ui.executablesView" partName="Executables">
 <viewState/>
 </view>
-<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
 <viewState/>
 </view>
-<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
 <viewState/>
 </view>
 <view id="org.eclipse.ui.views.TaskList" partName="Tasks">
@@ -525,14 +523,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@4f917003"/>
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
-</trimArea>
-<trimArea IMemento.internal.id="131072">
-<trimItem IMemento.internal.id="org.eclipse.debug.internal.ui.ConsoleFolderView"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@19a3870b"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
