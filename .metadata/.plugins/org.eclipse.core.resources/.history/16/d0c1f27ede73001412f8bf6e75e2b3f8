@@ -1,0 +1,22 @@
+/*
+ ID: kareem_2
+ PROG: wormhole
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main() {
+
+	ifstream fin("wormhole.in");
+	ofstream fout("wormhole.out");
+
+	int n;
+	fin >> n;
+	int** holePositions = new int*[n];
+
+
+	return 0;
+}
