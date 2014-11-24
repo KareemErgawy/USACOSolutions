@@ -8937,3 +8937,51 @@ org.eclipse.core.internal.resources.ResourceException: The project description f
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1384)
 !SUBENTRY 2 org.eclipse.core.resources 4 567 2014-09-26 14:36:56.231
 !MESSAGE The project description file (.project) for '00 Analysis' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!SESSION 2014-11-22 10:18:16.143 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.epp.usagedata.recording 2 0 2014-11-22 10:18:40.387
+!MESSAGE An exception occurred while trying to upload usage data.
+!STACK 0
+java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+	at java.net.SocketOutputStream.write(Unknown Source)
+	at java.io.BufferedOutputStream.flushBuffer(Unknown Source)
+	at java.io.BufferedOutputStream.write(Unknown Source)
+	at org.apache.commons.httpclient.ChunkedOutputStream.flushCacheWithAppend(ChunkedOutputStream.java:121)
+	at org.apache.commons.httpclient.ChunkedOutputStream.write(ChunkedOutputStream.java:179)
+	at sun.nio.cs.StreamEncoder.writeBytes(Unknown Source)
+	at sun.nio.cs.StreamEncoder.implWrite(Unknown Source)
+	at sun.nio.cs.StreamEncoder.write(Unknown Source)
+	at java.io.OutputStreamWriter.write(Unknown Source)
+	at java.io.BufferedWriter.flushBuffer(Unknown Source)
+	at java.io.BufferedWriter.write(Unknown Source)
+	at java.io.Writer.write(Unknown Source)
+	at java.io.Writer.append(Unknown Source)
+	at org.eclipse.epp.usagedata.internal.recording.uploading.BasicUploader$FilteredFilePart$1.event(BasicUploader.java:345)
+	at org.eclipse.epp.usagedata.internal.recording.uploading.UsageDataFileReader.iterate(UsageDataFileReader.java:132)
+	at org.eclipse.epp.usagedata.internal.recording.uploading.UsageDataFileReader.iterate(UsageDataFileReader.java:102)
+	at org.eclipse.epp.usagedata.internal.recording.uploading.BasicUploader$FilteredFilePart.sendData(BasicUploader.java:338)
+	at org.apache.commons.httpclient.methods.multipart.Part.send(Part.java:312)
+	at org.apache.commons.httpclient.methods.multipart.Part.sendParts(Part.java:385)
+	at org.apache.commons.httpclient.methods.multipart.MultipartRequestEntity.writeRequest(MultipartRequestEntity.java:164)
+	at org.apache.commons.httpclient.methods.EntityEnclosingMethod.writeRequestBody(EntityEnclosingMethod.java:499)
+	at org.apache.commons.httpclient.HttpMethodBase.writeRequest(HttpMethodBase.java:2114)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1096)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323)
+	at org.eclipse.epp.usagedata.internal.recording.uploading.BasicUploader.doUpload(BasicUploader.java:206)
+	at org.eclipse.epp.usagedata.internal.recording.uploading.BasicUploader.upload(BasicUploader.java:129)
+	at org.eclipse.epp.usagedata.internal.recording.uploading.BasicUploader$1.run(BasicUploader.java:105)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-11-22 10:39:21.630
+!MESSAGE Indexed '49 Combo' (0 sources, 21 headers) in 0.86 sec: 702 declarations; 1,200 references; 2 unresolved inclusions; 0 syntax errors; 15 unresolved names (0.78%)

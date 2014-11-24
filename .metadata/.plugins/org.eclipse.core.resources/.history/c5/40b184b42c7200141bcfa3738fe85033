@@ -1,0 +1,45 @@
+/*
+ ID: kareem_2
+ PROG: combo
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int intersect(int n, int f, int m) {
+
+	int diff = f - m;
+
+	if(diff < 0) {
+		diff = -diff;
+	}
+
+	if(n - diff < diff) {
+		diff = n - diff;
+	}
+
+	if(diff < 5) {
+		return 5 - diff;
+	}
+
+	return 0;
+}
+
+int main() {
+
+	ifstream fin("combo.in");
+	ofstream fout("combo.out");
+
+	int n;
+	int f[3];
+	int m[3];
+
+	fin >> f[0] >> f[1] >> f[2];
+	fin >> m[0] >> m[1] >> m[2];
+
+	fout << (250 - (intersect(n, f[0], m[0]) * intersect(n, f[1], m[1]) * intersect(n, f[2], m[2]))) << endl;
+
+	return 0;
+}
