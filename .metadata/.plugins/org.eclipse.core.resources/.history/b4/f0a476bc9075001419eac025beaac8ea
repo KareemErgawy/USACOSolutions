@@ -1,0 +1,45 @@
+/*
+ ID: kareem_2
+ PROG: wormhole
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+#include <cstring>
+
+using namespace std;
+
+int* x;
+int* y;
+int* right_neighbor;
+
+int solve(){
+
+}
+
+int main() {
+	ifstream fin("wormhole.in");
+	ofstream fout("wormhole.out");
+	int n;
+	fin >> n;
+	x = new int[n + 1];
+	y = new int[n + 1];
+	right_neighbor = new int[n + 1];
+
+	for (int i = 1; i <= n; i++) {
+		fin >> x[i] >> y[i];
+		right_neighbor[i] = 0;
+	}
+
+	for (int i = 1; i <= n; i++) {
+		for (int j = 1; j <= n; j++) {
+			if (x[i] < x[j] && y[i] == y[j]) {
+				if(right_neighbor[i] == 0 || (x[j] - x[i]) < (x[right_neighbor[i]] - x[i])) {
+					right_neighbor[i] = j;
+				}
+			}
+		}
+	}
+
+	return 0;
+}

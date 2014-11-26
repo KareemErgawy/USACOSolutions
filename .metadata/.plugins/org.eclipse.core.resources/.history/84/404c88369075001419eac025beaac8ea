@@ -1,0 +1,18 @@
+/*
+ ID: kareem_2
+ PROG: wormhole
+ LANG: C++
+ */
+#include <iostream>
+#include <fstream>
+#include <cstring>
+
+using namespace std;
+
+int main(){
+	ifstream fin("wormhole.in");
+	ofstream fout("wormhole.out");
+
+
+	return 0;
+}
