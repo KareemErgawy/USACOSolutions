@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item value="257" key="DIALOG_WIDTH"/>
-		<item value="223" key="DIALOG_Y_ORIGIN"/>
-		<item value="380" key="DIALOG_HEIGHT"/>
-		<item value="953" key="DIALOG_X_ORIGIN"/>
-		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="248" key="DIALOG_Y_ORIGIN"/>
+		<item value="452" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item value="true" key="wrap"/>
 		<item value="false" key="isRegEx"/>
+		<item value="band" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
-		<item value="IVXLCDM" key="selection"/>
 		<list key="findhistory">
-			<item value="IVXLCDM"/>
-			<item value="solutions"/>
-			<item value="search"/>
-			<item value="bisquares2"/>
-			<item value="greg"/>
-			<item value="dict"/>
-			<item value="fout"/>
-			<item value="neckalce"/>
+			<item value="band"/>
+			<item value="highpass"/>
+			<item value="lowpass"/>
+			<item value="high_pass"/>
+			<item value="hist"/>
+			<item value="here"/>
+			<item value="hist_eq"/>
+			<item value="gamma_correct"/>
 		</list>
 		<list key="replacehistory">
 			<item value="solutions2"/>
@@ -35,8 +32,11 @@
 			<item value=""/>
 		</list>
 	</section>
-	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
-		<item value="248" key="DIALOG_Y_ORIGIN"/>
-		<item value="452" key="DIALOG_X_ORIGIN"/>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="380" key="DIALOG_HEIGHT"/>
+		<item value="223" key="DIALOG_Y_ORIGIN"/>
+		<item value="953" key="DIALOG_X_ORIGIN"/>
 	</section>
 </section>

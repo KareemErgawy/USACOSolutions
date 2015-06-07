@@ -1,0 +1,10 @@
+
+**** Build of configuration Debug for project Ex02_a ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -oYCbCr.o ..\YCbCr.c
+..\YCbCr.c: In function 'main':
+..\YCbCr.c:531:4: warning: format '%d' expects argument of type 'int', but argument 2 has type 'long int' [-Wformat]
+gcc -oEx02_a.exe YCbCr.o
+Build complete for project Ex02_a
+Time consumed: 717  ms.  

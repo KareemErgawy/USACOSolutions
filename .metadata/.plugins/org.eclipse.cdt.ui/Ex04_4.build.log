@@ -1,0 +1,20 @@
+
+**** Build of configuration Debug for project Ex04_4 ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -odct.o ..\dct.c
+..\dct.c: In function 'jpeg_multiply_block':
+..\dct.c:352:9: warning: unused variable 'j' [-Wunused-variable]
+..\dct.c:352:6: warning: unused variable 'i' [-Wunused-variable]
+..\dct.c: In function 'jpeg_divide_block':
+..\dct.c:462:9: warning: unused variable 'j' [-Wunused-variable]
+..\dct.c:462:6: warning: unused variable 'i' [-Wunused-variable]
+..\dct.c: In function 'blockwise_quantisation_equal_2d':
+..\dct.c:995:8: warning: unused variable 'count' [-Wunused-variable]
+..\dct.c: In function 'main':
+..\dct.c:1129:5: warning: format '%d' expects argument of type 'int', but argument 2 has type 'time_t' [-Wformat]
+..\dct.c:1137:5: warning: format '%d' expects argument of type 'int', but argument 2 has type 'time_t' [-Wformat]
+..\dct.c:1046:8: warning: unused variable 'sigma' [-Wunused-variable]
+g++ -oEx04_4.exe dct.o
+Build complete for project Ex04_4
+Time consumed: 712  ms.  

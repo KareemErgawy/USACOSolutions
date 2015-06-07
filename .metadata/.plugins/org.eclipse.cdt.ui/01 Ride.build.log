@@ -1,8 +1,5 @@
 
-**** Rebuild of configuration Debug for project 01 Ride ****
+**** Build of configuration Debug for project 01 Ride ****
 
 **** Internal Builder is used for build               ****
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
-g++ -o01 Ride.exe Main.o
-Build complete for project 01 Ride
-Time consumed: 406  ms.  
+Nothing to build for 01 Ride

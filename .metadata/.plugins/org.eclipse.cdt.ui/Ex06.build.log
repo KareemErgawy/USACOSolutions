@@ -1,0 +1,7 @@
+
+**** Build of configuration Debug for project Ex06 ****
+
+**** Internal Builder is used for build               ****
+g++ -oEx06.exe linear_filters.o
+Build complete for project Ex06
+Time consumed: 356  ms.  

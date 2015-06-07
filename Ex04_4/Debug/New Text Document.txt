@@ -1,0 +1,9 @@
+Problem 4:
+(b) The spectrum of the 8x8 block DCT somewhat maintains the features of the image (of course the features are much less visible than the spatial domain). While the spectrum of the whole DCT doesn't maintian an of the spatial features of the image. Also in each of the 8x8 DCT blocks, there is an almost white dot at the upper left corner of the block capturing the average gray value of that block.
+Regarding the execution time, the whole DCT took about 12 secs while the 8x8 DCT returned instantly and was much faster.
+
+(c) The high frequencies were removed.
+Compared to the original image, the 8x8 DCT is better than the whole DCT. In the whole DCT, it looks like a grid pattern noise was introduced to the image.
+
+(d) Comparing some of the blocks in the 2 spectra (specially blocks that contains lots of high frequencies), the blocks of option 5 contains more high frequency components than blocks of option 6.
+The quality of option 6 is higher. In the resulting image of optin 5, the image looks pixelated and obvious sqaure patterns appear in it. While the image of option 6 looks much smoother.

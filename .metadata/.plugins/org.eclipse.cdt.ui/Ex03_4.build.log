@@ -1,0 +1,17 @@
+
+**** Build of configuration Debug for project Ex03_4 ****
+
+**** Internal Builder is used for build               ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -oDFT.o ..\DFT.c
+..\DFT.c: In function 'FFT':
+..\DFT.c:410:9: warning: suggest parentheses around comparison in operand of '&' [-Wparentheses]
+..\DFT.c:454:1: warning: suggest parentheses around comparison in operand of '&' [-Wparentheses]
+..\DFT.c: In function 'main':
+..\DFT.c:732:8: warning: unused variable 'std' [-Wunused-variable]
+..\DFT.c:731:8: warning: unused variable 'mean' [-Wunused-variable]
+..\DFT.c:730:13: warning: unused variable 'min' [-Wunused-variable]
+..\DFT.c:727:17: warning: unused variable 'ny_mask' [-Wunused-variable]
+..\DFT.c:727:8: warning: unused variable 'nx_mask' [-Wunused-variable]
+g++ -oEx03_4.exe DFT.o
+Build complete for project Ex03_4
+Time consumed: 815  ms.  
