@@ -1,8 +1,0 @@
-
-**** Build of configuration Debug for project Ex01_c ****
-
-**** Internal Builder is used for build               ****
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -ofloyd-steinberg.o ..\floyd-steinberg.c
-gcc -oEx01_c.exe floyd-steinberg.o
-Build complete for project Ex01_c
-Time consumed: 732  ms.  

@@ -1,8 +1,0 @@
-
-**** Rebuild of configuration Debug for project 35 NoCows ****
-
-**** Internal Builder is used for build               ****
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
-g++ -o35 NoCows.exe Main.o
-Build complete for project 35 NoCows
-Time consumed: 555  ms.  

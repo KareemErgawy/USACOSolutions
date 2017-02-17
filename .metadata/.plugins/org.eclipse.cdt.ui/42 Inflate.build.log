@@ -1,8 +1,0 @@
-
-**** Rebuild of configuration Debug for project 42 Inflate ****
-
-**** Internal Builder is used for build               ****
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
-g++ -o42 Inflate.exe Main.o
-Build complete for project 42 Inflate
-Time consumed: 405  ms.  

@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;01 Ride/ride.out&apos; to &apos;ride.txt&apos;" description="Rename resource &apos;ride.out&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ride.out" name="ride.txt" stamp="1382596177447" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;01 Ride/ride.txt&apos; to &apos;ride.out&apos;" description="Rename resource &apos;ride.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ride.txt" name="ride.out" stamp="1382596266697" updateReferences="true"/>
-</session>

@@ -1,8 +1,0 @@
-/*
- ID: kareem_2
- PROG: hamming
- LANG: C++
- */
-#include <iostream>
-#include <fstream>
-using namespace std;

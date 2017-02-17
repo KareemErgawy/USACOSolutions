@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Extract maxBisquareComponent * maxBisquareComponent * 2 + 1" description="Extract Local Variable Refactoring" fileName="file:/D:/USACO/16%20AriProg/Main2.cpp" flags="4" id="org.eclipse.cdt.internal.ui.refactoring.extractlocalvariable.ExtractLocalVariableRefactoring" name="maxBisquare" selection="386,51" stamp="1410864533349"/>
-</session>

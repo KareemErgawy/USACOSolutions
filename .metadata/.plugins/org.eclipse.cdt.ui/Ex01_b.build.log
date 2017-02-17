@@ -1,8 +1,0 @@
-
-**** Build of configuration Debug for project Ex01_b ****
-
-**** Internal Builder is used for build               ****
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -oquantisation.o ..\quantisation.c
-gcc -oEx01_b.exe quantisation.o
-Build complete for project Ex01_b
-Time consumed: 718  ms.  

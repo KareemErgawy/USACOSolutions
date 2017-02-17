@@ -1,8 +1,0 @@
-
-**** Rebuild of configuration Debug for project 44 Rect1 ****
-
-**** Internal Builder is used for build               ****
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -oMain.o ..\Main.cpp
-g++ -o44 Rect1.exe Main.o
-Build complete for project 44 Rect1
-Time consumed: 466  ms.  
